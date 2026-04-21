@@ -1,0 +1,3 @@
+- Ask Jared what llm for librarian 
+- Ask Niko for librarian 
+- read  [Phenotype Docu](https://ohdsiorg.sharepoint.com/:w:/s/Workgroup-CommonDataModel/IQCfhehQBUR3SbBdKFwgto15Af65-9DGYj4Bc1UoD3OB32s?rtime=KsOp9kqd3kg)

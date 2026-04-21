@@ -1,0 +1,10 @@
+- Access to BQ for Darwin 
+- R utils for analysis team
+- Pietro lab values 
+- Johana mapping drugs llms (find poster)
+- Parhteon Sanjay meeting
+- release CO2
+- Organise upload tables to other sandboxes
+- Course Vidal
+- meeting Yajit
+	- is a grap db necessary. https://github.com/fastomop/omop-cdm-graph 
